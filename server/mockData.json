@@ -1,0 +1,18 @@
+[
+    {
+        "company": "TCS",
+        "price":800
+    },
+    {
+        "company": "Infosys",
+        "price":1200
+    },
+    {
+        "company": "Siemens",
+        "price":1500
+    },
+    {
+        "company": "JP Morgan",
+        "price":1600
+    }
+]
