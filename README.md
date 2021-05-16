@@ -1,5 +1,6 @@
 # Real Time Stock Price Information React App
 Every 500 ms web socket will send the updated mock data to client and using RxJS observable and redux-observable middleware showing real time data.
+This application is created using CRA.
 
 **Libraries Used:** RxJS, WebSocket, React, Redux, redux-observable middleware
 
@@ -12,4 +13,5 @@ Every 500 ms web socket will send the updated mock data to client and using RxJS
 6. Open http://localhost:3000/
 
 ## Demo
-![screen-capture](https://user-images.githubusercontent.com/26835951/118400968-72eb6d00-b681-11eb-8362-1eaf66cbefb0.gif)
+![screen-capture](https://user-images.githubusercontent.com/26835951/118401762-8e0bac00-b684-11eb-8bfd-47e8e6fdf829.gif)
+
