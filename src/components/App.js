@@ -15,7 +15,7 @@ function App() {
     <div className="app">
       <div className="header-container">
         <h1>
-          {`Live Stock Information `}
+          {`Live Stock Price Information `}
           <img className="img-logo" alt="logo" src={logo}></img>
         </h1>
       </div>
